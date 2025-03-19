@@ -1,4 +1,6 @@
-# Assessment #3
+# Assessment #3 
+
+Link: https://github.com/kharl09/assessment3.git
 
 This project dynamically generates a webpage showcasing favorite music artists using JavaScript (ES6+), DOM manipulation, and asynchronous programming. Users can like artists and fetch additional details asynchronously.
 
